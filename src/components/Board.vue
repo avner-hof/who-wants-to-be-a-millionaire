@@ -64,8 +64,6 @@ export default {
 }
 
 .user-score {
-  /*display: flex;*/
-  /*justify-content: space-evenly;*/
   display: grid;
   grid-template-columns: 50% 50%;
   align-items: start;

@@ -39,7 +39,6 @@ const questions = questionsData.results.sort(
   }));
 
 
-
 export default new Vuex.Store({
   state: {
     questions,
@@ -73,5 +72,4 @@ export default new Vuex.Store({
     saveUserScore: ({ commit }, { username, totalScore, questions }) =>
       commit('SAVE_USER_SCORE', { username, totalScore, questions })
   }
-
 });
