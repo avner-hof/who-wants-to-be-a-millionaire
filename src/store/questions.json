@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the punishment for Sysiphus's craftiness?",
+      "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+      "incorrect_answers": [
+        "Tied to a boulder for eternity, being pecked by birds.",
+        "Standing in a lake filled with water he could not drink.",
+        "To fell a tree that regenerated after every axe swing."
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the BBPA, what is the most common pub name in the UK?",
+      "correct_answer": "Red Lion",
+      "incorrect_answers": [
+        "Royal Oak",
+        "White Hart",
+        "King's Head"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+      "correct_answer": "Binary",
+      "incorrect_answers": [
+        "JavaScript",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many sonatas did Ludwig van Beethoven write?",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "50",
+        "31",
+        "21"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Fallout 4, which type of power armor is first encountered in the early mission \"When Freedom Calls\" in a crashed Vertibird?",
+      "correct_answer": "T-45",
+      "incorrect_answers": [
+        "T-51",
+        "T-60",
+        "X-01"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where does the book \"The Silence of the Lambs\" get its title from?",
+      "correct_answer": "The main character's trauma in childhood",
+      "incorrect_answers": [
+        "The relation it has with killing the innocents",
+        "The villain's favourite meal",
+        "The voice of innocent people being shut by the powerful"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who directed the movie \"Alien\"",
+      "correct_answer": "Ridley Scott",
+      "incorrect_answers": [
+        "Christopher Nolan",
+        "Michael Bay",
+        "James Cameron"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the only fighter in the game \"Super Smash Bros. Melee\" capable of dealing damage with their taunt animation?",
+      "correct_answer": "Luigi",
+      "incorrect_answers": [
+        "Mr. Game & Watch",
+        "Jigglypuff",
+        "Pichu"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the 8th installment in the Fire Emblem series?",
+      "correct_answer": "The Sacred Stones",
+      "incorrect_answers": [
+        "Blazing Sword",
+        "Awakening",
+        "Path of Radiance"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "\"Grande Valse\" is a phrase from the song \"Gran Vals\". What is that song segment known as?",
+      "correct_answer": "Nokia Tune",
+      "incorrect_answers": [
+        "Hello Moto [Motorola Ringtone]",
+        "Droid Ringtone",
+        "Microsoft Ringtone"
+      ]
+    }
+  ]
+}
